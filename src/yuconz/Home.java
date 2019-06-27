@@ -25,7 +25,7 @@ import javax.swing.text.MaskFormatter;
 
 /**
  *
- * @author rm631, ol61, mb859, ra466
+ * @author rm631 
  */
 public class Home extends JFrame {
     

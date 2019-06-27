@@ -1,0 +1,3 @@
+# Software Development Project - Yuconz
+
+The project was to interact with a lecturer posing as a HR employee in a fake company 'Yuconz.' The systems main functionality is to create reviews of employees (hence the system can also create, save, delete and read employee data from txt files.) The focus of the project wasn't a perfect end project but rather to prepare us for co600 final year project by familiarising students with software development practises through a hands on approach.

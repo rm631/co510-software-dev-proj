@@ -12,7 +12,7 @@ import javax.swing.JTextField;
 
 /**
  * 
- * @author rm631, ol61, mb859, ra466
+ * @author rm631 
  */
 public class Authentication extends JFrame {
 

@@ -2,7 +2,7 @@ package yuconz;
 
 /**
  *
- * @author rm631, ol61, mb859, ra466
+ * @author rm631 
  */
 public class User {
     // Username/password are for the sake of testing auth in stage 3

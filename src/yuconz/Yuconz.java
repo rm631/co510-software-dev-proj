@@ -21,7 +21,7 @@ import java.util.logging.Logger;
 import java.util.logging.SimpleFormatter;
 
 /**
- * @author rm631, ol61, mb859, ra466
+ * @author rm631 
  */
 public class Yuconz {
     
