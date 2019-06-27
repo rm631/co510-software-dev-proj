@@ -1,0 +1,12 @@
+abc111:pass111:Director:Administration:true
+abc112:pass112:Manager:Administration:false
+abc113:pass113:Employee:Administration:false
+abc114:pass114:Director:Sales:false
+abc115:pass115:Manager:Sales:true
+abc116:pass116:Employee:Sales:true
+abc117:pass117:Director:Service Delivery:false
+abc118:pass118:Manager:Service Delivery:false
+abc119:pass119:Employee:Service Delivery:false
+abc120:pass120:Director-Manager:Human Resources:true
+abc121:pass121:HR Employee:Human Resources:true
+abc122:pass122:HR Employee:Human Resources:false
